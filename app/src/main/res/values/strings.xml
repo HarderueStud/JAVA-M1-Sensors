@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JAVA-M1-Sensors</string>
+    <string name="todo">TODO</string>
+    <string name="clt_m1">Clément - M1</string>
+    <string name="public_github">Public GitHub</string>
+    <string name="compass_light_sensor"><![CDATA[Compass & Light Sensor]]></string>
+</resources>
